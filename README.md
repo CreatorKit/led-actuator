@@ -19,3 +19,11 @@ $ make TARGET=mikro-e USE_CA8210=1
 ```
 
 This will generate hex file which can be flashed onto the MikroE clicker.
+
+----
+
+## Contributing
+
+We welcome all contributions to this project and we give credit where it's due. Anything from enhancing functionality to improving documentation and bug reporting - it's all good.
+
+For more details about the Contributor's guidelines, refer to the [contributor guide](https://github.com/CreatorKit/creator-docs/blob/master/ContributorGuide.md).
